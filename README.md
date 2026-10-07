@@ -2,6 +2,13 @@
 
 A simple Next.js practice project with multiple pages, a client-side counter, and a server API endpoint.
 
+## Project Features
+
+- Home and About pages
+- Interactive counter
+- Next.js API route
+- Client-side fetch with loading and error handling
+
 ## What I Learned
 
 1. **What does Next.js provide beyond React alone?**  
